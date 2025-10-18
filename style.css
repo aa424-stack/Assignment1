@@ -1,0 +1,26 @@
+.banner {
+    background-color: #5a0378;
+    padding: 30px;
+    text-align: center;
+}
+
+.banner h1 {
+    color: white;
+    font-size: 3em;
+    margin: 0;
+}
+
+.banner img {
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+/* Reset and basic styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
